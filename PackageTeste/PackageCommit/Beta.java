@@ -1,4 +1,4 @@
 package PackageCommit;
 
-public class beta {
+public class Beta {
 }
